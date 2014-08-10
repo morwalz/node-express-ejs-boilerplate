@@ -1,0 +1,13 @@
+{
+  "name": "Irobot ",
+  "version": "0.0.1",
+  "private": true,
+  "author":"Shankar Morwal",
+  "dependencies": {
+    "express": "3.4.8",
+    "less-middleware": "1.0.*",
+    "ejs":"latest",
+    "optimist": ">= 0.0.1",
+    "connect": "2.7.1"
+  }
+}
